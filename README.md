@@ -1,12 +1,11 @@
 # Hi I'm Thang <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
+<img src="https://hoseiki.vn/wp-content/uploads/2025/03/anh-anime-cute-28.jpg" align="right" width="200px" style="margin-left: 20px;"/>
+
 ## About
-
 - 🔭 I’m a Full-stack Developer  
-- 💡 Passionate about building web and mobile apps
-- 👯 Open to collaborate on projects 
-
-<!-- TODO: Add last video link -->
+- 💡 Passionate about building web and mobile apps  
+- 👯 Open to collaborate on projects
 
 # Top Skills
 
