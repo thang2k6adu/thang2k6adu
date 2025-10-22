@@ -4,13 +4,11 @@
 <img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
 
 <h2> / about me /</h2>
-  
 - ⭐ currently working on **web-development**
 - 💀 mostly working on **private repositories**
 - 👾 a **student** working his way around things
   
 <h2> / current skills / </h2>
-  
 - <h4> languages </h4>
   <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "js" />
   <img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt = "ts" />
