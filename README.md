@@ -3,10 +3,15 @@
 
 <img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
 
-<h2> / about me /</h2>
-- ⭐ currently working on **web-development**
-- 💀 mostly working on **private repositories**
-- 👾 a **student** working his way around things
+<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+- 🔭 I’m currently working on  Soy Estudiante
+- 🌱 I’m currently learning Git, Java y GitHub
+- 👯 I’m looking to collaborate on Proyectos
+- 💬 Ask me about Sql, Java, C#, JavaScript
+- ⚡ Fun fact: Me gustan los girasoles.
   
 <h2> / current skills / </h2>
 - <h4> languages </h4>
