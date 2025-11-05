@@ -50,4 +50,4 @@
 
 <!--START_SECTION:waka-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thang2k6adu&count_private=true&layout=donut&theme=tokyonight)](https://github.com/duyda1402)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thang2k6adu&count_private=true&layout=donut&theme=tokyonight)](https://github.com/thang2k6adu)
